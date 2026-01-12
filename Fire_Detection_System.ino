@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3yph2UVF-"
-#define BLYNK_TEMPLATE_NAME "Forest Fire System"
-#define BLYNK_AUTH_TOKEN "RmjD6EUdMDoypVoE7FUdcVXcUYg6mNtX"
+#define BLYNK_TEMPLATE_ID "Paste your owm"
+#define BLYNK_TEMPLATE_NAME "Paste your own"
+#define BLYNK_AUTH_TOKEN "Paste your own"
 
 #include <WiFi.h>
 #include <HTTPClient.h>
@@ -12,9 +12,9 @@
 #include <ESP32Servo.h>  // Use ESP32-compatible Servo library
 
 // WiFi and ThingSpeak
-char ssid[] = "Gayatri";       
-char pass[] = "111111111"; 
-String apiKey = "WDN0IONO9JRGDRLF"; 
+char ssid[] = ".............";       
+char pass[] = "............."; 
+String apiKey = "Paste your own"; 
 const char* server = "http://api.thingspeak.com/update";
 
 // Pin Definitions
@@ -218,3 +218,4 @@ void loop() {
 
   delay(5000);  // Delay for 5 seconds before next reading/update
 }
+
