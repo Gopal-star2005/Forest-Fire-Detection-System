@@ -1,0 +1,26 @@
+Copyright © 2026 Gopal Krushna Mahapatra
+
+ALL RIGHTS RESERVED.
+
+This repository contains proprietary source code, machine learning models,
+algorithms, training pipelines, evaluation scripts, visualization logic,
+IoT firmware, and documentation developed by the author.
+
+No permission is granted to use, copy, modify, distribute, sublicense,
+publish, benchmark against, train upon, or derive works from any part
+of this repository, in whole or in part.
+
+This restriction explicitly includes:
+- Machine learning training, testing, and comparison code
+- Model architectures and evaluation methodologies
+- Plotting and performance visualization scripts
+- IoT firmware and system logic
+- Images, diagrams, datasets, and documentation
+
+This repository is published solely for:
+- Academic review
+- Research evaluation
+- Professional and recruiter assessment
+
+Any unauthorized use, redistribution, or reproduction of this work
+may result in legal action.
